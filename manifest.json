@@ -1,0 +1,13 @@
+{
+    "name": "Delimitadores",
+    "package": "delimitadores",
+    "author": "Eros",
+    "version": "1.0.0",
+    "description": "Um add-on para o Anki que adiciona funcionalidades relacionadas a delimitadores personalizados.",
+    "ankiweb_id": null,
+    "conflicts": [],
+    "dependencies": [],
+    "homepage": "https://github.com/Eros/delimitadores",
+    "min_anki_version": "2.1.0",
+    "max_anki_version": null
+}
